@@ -5,10 +5,10 @@
 
 https://public.tableau.com/views/APPDOWNLOADSDASHBOARD/appdownloadsdb?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-![App Download Dashboard](/assets/images/app_downloads_dashboard.png)
+![App Download Dashboard](/../main/assets/images/app_downloads_dashboard.png)
 
 <!--- app performance dashboard embed  --->
 
 https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-![App Performance Dashboard](/assets/images/app_performance_dashboard.png)
+![App Performance Dashboard](/../main/assets/images/app_performance_dashboard.png)
