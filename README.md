@@ -40,6 +40,8 @@ https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en
 ![Dashboard Image](Images/dashboard_app_performance.png)
 
 ## Conclusions
+**Note:** The dataset was updated in 2019 and the trends are relevant to that time period (The project is for educational purpose and not for making decisions for the current market situation).
+
 * The category with the most downloads is Games and the genre with the most downloads is Communication.
 * Subway Surfers (Game) followed by Instagram and Hangouts are the most downloaded applications.
 * Only 7.36% of the applications are paid.
