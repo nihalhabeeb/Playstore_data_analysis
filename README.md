@@ -4,6 +4,7 @@
 * In this project, the distribution of applications in relation to categories and genres and whether they're paid or free is explored.
 * Information on the money spent by consumers buying applications, as well as the review activities are obtained.
 * Derived conclusions can help app developers gain an understanding on how to capture the market.
+* PostgreSQL and Tableau are the tools used.
 
 ## Objectives
 The aim is to build dashboards to visualise the distribution of application downloads, purchases and reviews across individual applications, categories and genres.
