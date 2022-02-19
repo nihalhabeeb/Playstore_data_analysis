@@ -49,7 +49,7 @@ Data visualisation was done in Tableau. The dashboards were created.
 
 #### App Downloads Dashboard:
 Presents the distribution of application downloads across categories and genres. Provides information on the total download activity as well as the total number of applications.
-[DASHBOARD LINK](https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[DASHBOARD LINK](https://public.tableau.com/views/APPDOWNLOADSDASHBOARD/appdownloadsdb?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Image](Images/app_downloads_dashboard.png)
 
