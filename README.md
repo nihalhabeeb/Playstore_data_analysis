@@ -9,18 +9,12 @@
 ## Objectives
 The aim is to build dashboards to visualise the distribution of application downloads, purchases and reviews across individual applications, categories and genres.
 
-## Deliverables first table format
-|Demand|Value|Deliverable|
-|---|---|---|
-|A dashboard that summarises application downloads|To understand which apps, categories and genres are the most popular in terms of downloads|A dashboard visualising disribution of downloads across different applications, genres and categories as well as the total download numbers|
-|A dashboard with information on money spent on applications and review activities of applications|To understand which are the categories where money is spent the most as well as the customer activities in terms of reviews|A dashboard visualising disribution of amount spent and total reviews (per application) across genres and categories|
-
-## Deliverables second table format
+## Deliverables
 <table>
 <colgroup>
 <col width="30%" />
-<col width="40%" />
 <col width="30%" />
+<col width="40%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -39,7 +33,6 @@ The aim is to build dashboards to visualise the distribution of application down
 <td markdown="span">A dashboard with information on money spent on applications and review activities of applications</td>
 <td markdown="span">To understand which are the categories where money is spent the most as well as the customer activities in terms of reviews</td>
 <td markdown="span">A dashboard visualising disribution of amount spent and total reviews (per application) across genres and categories</td>
-</td>
 </tr>
 </tbody>
 </table>
@@ -54,18 +47,15 @@ The SQL queries can be found [HERE](https://github.com/nihalhabeeb/Playstore_dat
 ## Data Visualisation
 Data visualisation was done in Tableau. The dashboards were created.
 
-### App Downloads Dashboard:
-Presents the distribution of application downloads across categories and genres. Provides information on the total download activity as well as the total number of applications (Link below).
-https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
+#### App Downloads Dashboard:
+Presents the distribution of application downloads across categories and genres. Provides information on the total download activity as well as the total number of applications.
+[DASHBOARD LINK](https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Image](Images/app_downloads_dashboard.png)
 
-### App Performance Dashboard:
-Visualises the distribution of free and paid apps as well as the money spent across categories and genres. The relation of review activities with categories and genres is explored as well (Link below).
-
-https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
+#### App Performance Dashboard:
+Visualises the distribution of free and paid apps as well as the money spent across categories and genres. The relation of review activities with categories and genres is explored as well.
+[DASHBOARD LINK](https://public.tableau.com/views/APPPERFORMANCEDASHBOARD/appperf_db?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Image](Images/dashboard_app_performance.png)
 
