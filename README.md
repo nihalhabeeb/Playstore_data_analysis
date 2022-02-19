@@ -9,11 +9,40 @@
 ## Objectives
 The aim is to build dashboards to visualise the distribution of application downloads, purchases and reviews across individual applications, categories and genres.
 
-## Deliverables
+## Deliverables first table format
 |Demand|Value|Deliverable|
 |---|---|---|
 |A dashboard that summarises application downloads|To understand which apps, categories and genres are the most popular in terms of downloads|A dashboard visualising disribution of downloads across different applications, genres and categories as well as the total download numbers|
 |A dashboard with information on money spent on applications and review activities of applications|To understand which are the categories where money is spent the most as well as the customer activities in terms of reviews|A dashboard visualising disribution of amount spent and total reviews (per application) across genres and categories|
+
+## Deliverables second table format
+<table>
+<colgroup>
+<col width="30%" />
+<col width="40%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Demand</th>
+<th>Value</th>
+<th>Deliverable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">A dashboard that summarises application downloads</td>
+<td markdown="span">To understand which apps, categories and genres are the most popular in terms of downloads</td>
+<td markdown="span">A dashboard visualising disribution of downloads across different applications, genres and categories as well as the total download numbers</td>
+</tr>
+<tr>
+<td markdown="span">A dashboard with information on money spent on applications and review activities of applications</td>
+<td markdown="span">To understand which are the categories where money is spent the most as well as the customer activities in terms of reviews</td>
+<td markdown="span">A dashboard visualising disribution of amount spent and total reviews (per application) across genres and categories</td>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Data Preparation
 Data was obtained from googleplaystore.csv dataset taken from kaggle (Author: Lavanya, Updated on 03/02/2019). To acess the source [CLICK HERE](https://www.kaggle.com/lava18/google-play-store-apps):
